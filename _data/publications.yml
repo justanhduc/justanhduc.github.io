@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- publication: Video Frame Interpolation by Plug-and-Play Deep Locally Linear Embedding
+- title: Video Frame Interpolation by Plug-and-Play Deep Locally Linear Embedding
   authors: Anh-Duc Nguyen, Woojae Kim, Jongyoo Kim, and Sanghoon Lee
   # url: "#"
   note: submitted to ECCV2018.
