@@ -14,8 +14,8 @@ resume_name:                    "Anh-Duc Nguyen"
 resume_title:                   "A Machine Teacher"
 resume_contact_email:           "adnguyen@yonsei.ac.kr"
 resume_contact_telephone:       "+82-10-3458-9210"
-resume_contact_address:         "Donggyo-ro 296-38, Seodaemun-gu, Seoul, 037-16"
-resume_header_contact_info: "Donggyo-ro 296-38, Seodaemun-gu, Seoul, 037-16 | +8210-3458-9210 | adnguyen@yonsei.ac.kr"
+resume_contact_address:         "C703 Engineering Hall 3, Yonsei University, Seodaemun-gu, Seoul, Korea, 03722."
+resume_header_contact_info: "C703 Engineering Hall 3, Yonsei University, Seodaemun-gu, Seoul, Korea, 03722. | +8210-3458-9210 | adnguyen@yonsei.ac.kr"
 resume_header_intro: "<p>I am a passionate human trying to teach machine to learn. Currently, I am working towards my PhD in Computer Vision at Yonsei University. I am interested in computer vision, machine learning, deep learning, and statistics.</p>"
 
 # use "yes" to display the email contact button,
