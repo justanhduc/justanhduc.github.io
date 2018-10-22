@@ -1,11 +1,6 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- title: Video Frame Interpolation via Plug-and-Play Deep Locally Temporal Embedding
-  authors: Anh-Duc Nguyen, Woojae Kim, Jongyoo Kim, Weisi Lin, and Sanghoon Lee
-  # url: "#"
-  note: Available on Arxiv.
-
 - title: Multiple Level Feature-Based Universal Blind Image Quality Assessment Model
   authors: Jongyoo Kim, Anh-Duc Nguyen, Sewoong Ahn, Chong Luo, and Sanghoon Lee
   # url: "#"
@@ -22,7 +17,7 @@
   note: Approved standard document by the IEEE Standardization Board (2018).
   
 - title: Deep Visual Saliency on Stereoscopic Images
-  authors: Anh-Duc Nguyen, Jongyoo Kim, Heeseok Oh, Weisi Lin, and Sanghoon Lee
+  authors: Anh-Duc Nguyen, Jongyoo Kim, Heeseok Oh and Sanghoon Lee
 # url: "#"
   note: Accepted to the IEEE Transactions on Image Processing (2017).
 
