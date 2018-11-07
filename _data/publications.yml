@@ -1,32 +1,34 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
+- title: A Simple Way of Multimodal and Arbitrary Style Transfer
+  authors: Anh-Duc Nguyen, Seonghwa Choi, Woojae Kim, and Sanghoon Lee
+  # url: "#"
+  note: Submitted to the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2018).
 
 - title: Video Frame Interpolation via Plug-and-Play Deep Locally Temporal Embedding
   authors: Anh-Duc Nguyen, Woojae Kim, Jongyoo Kim, Weisi Lin, and Sanghoon Lee
   # url: "#"
-  note: Submitted to IEEE Transactions on Circuits and Systems for Video Technology (2018).
+  note: Submitted to the IEEE Transactions on Circuits and Systems for Video Technology (2018).
 
 - title: Multiple Level Feature-Based Universal Blind Image Quality Assessment Model
   authors: Jongyoo Kim, Anh-Duc Nguyen, Sewoong Ahn, Chong Luo, and Sanghoon Lee
-  # url: "#"
+  url: "https://ieeexplore.ieee.org/document/8451346"
   note: In Proceedings of the International Conference on Image Processing (ICIP) (2018).
 
 - title: Video Frame Interpolation by Plug-and-Play Deep Locally Linear Embedding
   authors: Anh-Duc Nguyen, Woojae Kim, Jongyoo Kim, and Sanghoon Lee
-  # url: "#"
+  url: "https://arxiv.org/abs/1807.01462"
   note: Available on Arxiv.
 
-- title: Quality of Experience (QoE) and Visual Comfort Assessments of Three Dimensional (3D) Contents based on Psychophysical Studies
+- title: IEEE 3333.1.2-2017 - IEEE Standard for the Perceptual Quality Assessment of Three-Dimensional (3D) and Ultra-High-Definition (UHD) Contents
   #authors: Anh-Duc Nguyen, Jongyoo Kim, Heeseok Oh and Sanghoon Lee
-# url: "#"
+  url: "https://standards.ieee.org/standard/3333_1_2-2017.html"
   note: Approved standard document by the IEEE Standardization Board (2018).
   
 - title: Deep Visual Saliency on Stereoscopic Images
   authors: Anh-Duc Nguyen, Jongyoo Kim, Heeseok Oh, Weisi Lin, and Sanghoon Lee
-# url: "#"
-  note: Accepted to the IEEE Transactions on Image Processing (2017).
+  url: "https://ieeexplore.ieee.org/document/8520871"
+  note: In the IEEE Transactions on Image Processing (2018).
 
 - title: Deep CNN-based Blind Image Quality Predictor
   authors: Jongyoo Kim, Anh-Duc Nguyen and Sanghoon Lee
-# url: "#"
-  note: Accepted to the IEEE Transactions on Neural Networks and Learning Systems (2017).
+  url: "https://ieeexplore.ieee.org/document/8383698"
+  note: In the IEEE Transactions on Neural Networks and Learning Systems (2018).
