@@ -3,7 +3,7 @@
   description: OOP, Multi Threading, Queuing, Function Decorators, etc...
 
 - skill: Deep Learning Python Library
-  description: Theano, Pytorch, Tensorflow and Matconvnet.
+  description: Theano, Pytorch, Tensorflow, Matconvnet, Chainer, etc... I am a contributor of Tensorflow/models and Theano.
 
 - skill: C/C++
   description: OOP, STL, Multi Threading, etc...
@@ -11,7 +11,7 @@
 - skill: Matlab
   description: For scientific purpose.
   
-- skill: Web Development (HTML/CSS/JavaScript/jQuery)
+- skill: Web Development (HTML/CSS/JavaScript/jQuery/Liquid)
   description: Basic understandings to serve my undergraduate thesis.
 
 - skill: Database Administration (MySQL/PHP)

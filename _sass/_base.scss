@@ -10,12 +10,12 @@ html {
   background: $white;
 }
 
-body{
+/*body{
   @include serif;
   color: $text_color;
   font-size: 16px;
   line-height: 1.5;
-}
+}*/
 
 .wrapper:before,
 .wrapper:after { content:""; display:table; }
