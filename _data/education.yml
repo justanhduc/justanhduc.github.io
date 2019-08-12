@@ -10,5 +10,6 @@
 - degree: Bachelor, Automatic control
   uni: Hanoi University of Science and Technology
   year: 2010 &mdash; 2015
-  award: Oustanding student Award (4 semesters)
+  awards: 
+    - award: Oustanding student Award (4 semesters)
   summary: My thesis was titled "Indoor User Localization based on WiFi Fingerprinting using RSSI measurement".
