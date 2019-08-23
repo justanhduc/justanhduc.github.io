@@ -181,6 +181,17 @@
   }
 
   .resume-item-copy { margin: .75rem 0 0; }
+  
+  .resume-item-icon-link {
+	text-decoration: none !important;
+	border:0px !important;
+	outline:none;
+	border-width: 0px;
+	outline-width:0px;
+	border-bottom: none;
+  }
+  
+  .resume-item-icon {height: 20px; }
 }
 
 // footer styles

@@ -1,43 +1,82 @@
-- title: GraphX-convolution for point cloud deformation in 2D-to-3D conversion
-  authors: <u>Anh-Duc Nguyen</u>, Seonghwa Choi, Woojae Kim, and Sanghoon Lee
-  #url: ""
-  note: In the International Conference on Computer Vision (ICCV) (2019) (acceptance rate&#58; 25%).
+- title: GraphX-Convolution for Point Cloud Deformation in 2D-to-3D Conversion
+  authors: 
+    - Anh-Duc Nguyen
+    - Seonghwa Choi
+    - Woojae Kim
+    - Sanghoon Lee
+  venue: In the International Conference on Computer Vision (ICCV) (2019) (acceptance rate&#58; 25%).
+  code: "https://github.com/justanhduc/graphx-conv"
 
 - title: POINT CLOUD DEFORMATION FOR SINGLE IMAGE 3D RECONSTRUCTION
-  authors: Seonghwa Choi, <u>Anh-Duc Nguyen</u>, Jinwoo Kim, Sewoong Ahn, and Sanghoon Lee
-  url: "https://cmsworkshops.com/ICIP2019/Papers/ViewPaper.asp?PaperNum=2731"
-  note: In the International Conference on Image Processing (ICIP) (2019).
+  authors: 
+    - Seonghwa Choi
+    - Anh-Duc Nguyen
+    - Jinwoo Kim
+    - Sewoong Ahn
+    - Sanghoon Lee
+  venue: In the International Conference on Image Processing (ICIP) (2019).
+  pdf: "https://cmsworkshops.com/ICIP2019/Papers/ViewPaper.asp?PaperNum=2731"
 
 - title: DISTRIBUTION PADDING IN CONVOLUTIONAL NEURAL NETWORKS
-  authors: <u>Anh-Duc Nguyen</u>, Seonghwa Choi, Woojae Kim, Sewoong Ahn, Jinwoo Kim, and Sanghoon Lee
-  url: "https://cmsworkshops.com/ICIP2019/Papers/ViewPaper.asp?PaperNum=2737"
-  note: In the International Conference on Image Processing (ICIP) (2019).
-
-- title: A Simple Way of Multimodal and Arbitrary Style Transfer
-  authors: <u>Anh-Duc Nguyen</u>, Seonghwa Choi, Woojae Kim, and Sanghoon Lee
-  url: "https://ieeexplore.ieee.org/abstract/document/8683493"
-  note: In the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2019).
-
-- title: Multiple Level Feature-Based Universal Blind Image Quality Assessment Model
-  authors: Jongyoo Kim, <u>Anh-Duc Nguyen</u>, Sewoong Ahn, Chong Luo, and Sanghoon Lee
-  url: "https://ieeexplore.ieee.org/document/8451346"
-  note: In the International Conference on Image Processing (ICIP) (2018).
-
-- title: Video Frame Interpolation by Plug-and-Play Deep Locally Linear Embedding
-  authors: <u>Anh-Duc Nguyen</u>, Woojae Kim, Jongyoo Kim, and Sanghoon Lee
-  url: "https://arxiv.org/abs/1807.01462"
-  note: Available on Arxiv.
-
-- title: IEEE 3333.1.2-2017 - IEEE Standard for the Perceptual Quality Assessment of Three-Dimensional (3D) and Ultra-High-Definition (UHD) Contents
-  url: "https://standards.ieee.org/standard/3333_1_2-2017.html"
-  note: Approved standard document by the IEEE Standardization Board (2018).
+  authors: 
+    - Anh-Duc Nguyen
+    - Seonghwa Choi
+    - Woojae Kim
+    - Sewoong Ahn
+    - Jinwoo Kim
+    - Sanghoon Lee
+  pdf: "https://cmsworkshops.com/ICIP2019/Papers/ViewPaper.asp?PaperNum=2737"
+  venue: In the International Conference on Image Processing (ICIP) (2019).
+  code: "https://github.com/justanhduc/distribution-padding"
   
-- title: Deep Visual Saliency on Stereoscopic Images
-  authors: <u>Anh-Duc Nguyen</u>, Jongyoo Kim, Heeseok Oh, Weisi Lin, and Sanghoon Lee
-  url: "https://ieeexplore.ieee.org/document/8520871"
-  note: In the IEEE Transactions on Image Processing (2018).
+- title: A Simple Way of Multimodal and Arbitrary Style Transfer
+  authors: 
+    - Anh-Duc Nguyen
+    - Seonghwa Choi
+    - Woojae Kim
+    - Sanghoon Lee
+  pdf: "https://ieeexplore.ieee.org/abstract/document/8683493"
+  venue: In the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2019).
+  code: "https://github.com/justanhduc/multar"
+  
+- title: Multiple Level Feature-Based Universal Blind Image Quality Assessment Model
+  authors: 
+    - Jongyoo Kim
+    - Anh-Duc Nguyen
+    - Sewoong Ahn
+    - Chong Luo
+    - Sanghoon Lee
+  pdf: "https://ieeexplore.ieee.org/document/8451346"
+  venue: In the International Conference on Image Processing (ICIP) (2018).
+  
+- title: Video Frame Interpolation by Plug-and-Play Deep Locally Linear Embedding
+  authors: 
+    - Anh-Duc Nguyen
+    - Woojae Kim
+    - Jongyoo Kim
+    - Sanghoon Lee
+  pdf: "https://arxiv.org/abs/1807.01462"
+  venue: Preprint.
+  code: "https://github.com/justanhduc/DeepLTE"
+  
+- title: IEEE 3333.1.2-2017 - IEEE Standard for the Perceptual Quality Assessment of Three-Dimensional (3D) and Ultra-High-Definition (UHD) Contents
+  pdf: "https://standards.ieee.org/standard/3333_1_2-2017.html"
+  venue: Approved standard document by the IEEE Standardization Board (2018).
 
+- title: Deep Visual Saliency on Stereoscopic Images
+  authors: 
+    - Anh-Duc Nguyen
+    - Jongyoo Kim
+    - Heeseok Oh
+    - Weisi Lin
+    - Sanghoon Lee
+  pdf: "https://ieeexplore.ieee.org/document/8520871"
+  venue: In the IEEE Transactions on Image Processing (2018) (IF&#58; 6.790).
+  
 - title: Deep CNN-based Blind Image Quality Predictor
-  authors: Jongyoo Kim, <u>Anh-Duc Nguyen</u>, and Sanghoon Lee
-  url: "https://ieeexplore.ieee.org/document/8383698"
-  note: In the IEEE Transactions on Neural Networks and Learning Systems (2018).
+  authors: 
+    - Jongyoo Kim
+    - Anh-Duc Nguyen
+    - Sanghoon Lee
+  pdf: "https://ieeexplore.ieee.org/document/8383698"
+  venue: In the IEEE Transactions on Neural Networks and Learning Systems (2018) (IF&#58; 11.683).

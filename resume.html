@@ -96,10 +96,25 @@ layout: page
         {% for publication in site.data.publications%}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="title">{% if publication.url %}<a href="{{ publication.url }}">{{ publication.title }}</a>{% else %}{{ publication.title}}{% endif %}</h3>
-      <h4 class="resume-item-name" itemprop="name">{{ publication.authors}}</h4>
-          <p class="resume-item-copy" itemprop="description">{{ publication.note }}  </p>
-          <!-- <p class="resume-item-copy">{{ publication.description }}</p> -->
+          <h3 class="resume-item-title" itemprop="title">{{ publication.title }} 
+		  {% if publication.pdf %}
+			<a class="resume-item-icon-link" href={{publication.pdf}} target="_blank">
+			<img class="resume-item-icon" src="assets/icons/icon-adobe-pdf.svg" title="PDF" alt="PDF"></a>
+		  {% endif %}
+		  {% if publication.code %}
+			<a class="resume-item-icon-link" href={{publication.code}} target="_blank">
+			<img class="resume-item-icon" src="assets/icons/icon-github-code.svg" title="Code" alt="Code"></a>
+		  {% endif %}
+		  </h3>
+		<h4 class="resume-item-name" itemprop="name">
+		  {% for author in publication.authors%}
+		  {% if forloop.last == true %}
+		  and
+		  {% endif %}
+		  {% if author contains 'Duc Nguyen' %}<u>{{author}}</u>{% else %}{{author}}{% endif %}{% if forloop.last == true %}.{% else %}, {% endif %}
+		  {% endfor %}
+		</h4>
+          <p class="resume-item-copy" itemprop="description">{{ publication.venue }}  </p>
         </div>
         {% endfor %}
 
@@ -135,9 +150,15 @@ layout: page
 
         {% for award in site.data.awards %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ award.award }}</h3>
-          <h4 class="resume-item-details">{{ award.organization }} &bull; {{ award.year }}</h4>
-          <p class="resume-item-copy">{{ award.summary }}</p>
+			{% if award.award %}
+				<h3 class="resume-item-title" itemprop="award">{{ award.award }}</h3>
+			{% endif %}
+			{% if award.organization and award.year %}
+				<h4 class="resume-item-details">{{ award.organization }} &bull; {{ award.year }}</h4>
+			{% endif %}
+			{% if award.summary %}
+				<p class="resume-item-copy">{{ award.summary }}</p>
+			{% endif %}
         </div>
         {% endfor %}
 
