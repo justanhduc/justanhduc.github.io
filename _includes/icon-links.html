@@ -2,6 +2,13 @@
 {% if site.resume_social_links %}
 <ul class="icon-links">
 
+  <!-- Email addresses-->
+  {% if site.resume_social_links.resume_email_addresses %}
+  {% for address in site.resume_social_links.resume_email_addresses %}
+  <li class="icon-link-item"><a href="mailto:{{ address }}" class="icon-link" itemprop="sameAs">{% include icons/icon-email.html %}</a></li>  
+  {% endfor %}
+  {% endif %}
+
   <!-- GitHub link -->
   {% if site.resume_social_links.resume_github_url %}
   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_github_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-github.html %}</a></li>

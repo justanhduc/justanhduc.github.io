@@ -39,11 +39,14 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/justanhduc"
-  resume_facebook_url:          "https://m.facebook.com/Mr.DucAnhNguyen"
-  resume_linkedin_url:          "https://www.linkedin.com/in/adnguyen-eee/"
-  resume_instagram_url:         "https://www.instagram.com/_adnguyen/"
-  resume_website_url:           "http://adnlearningblog.wordpress.com/"
+  resume_email_addresses: 
+    - "adnguyen@yonsei.ac.kr"
+    - "justanhduc@gmail.com"    
+  resume_github_url: "https://github.com/justanhduc"
+  resume_facebook_url: "https://m.facebook.com/Mr.DucAnhNguyen"
+  resume_linkedin_url: "https://www.linkedin.com/in/adnguyen-eee/"
+  resume_instagram_url: "https://www.instagram.com/_adnguyen/"
+  resume_website_url: "http://adnlearningblog.wordpress.com/"
 resume_print_social_links:      true
 
 # Design settings

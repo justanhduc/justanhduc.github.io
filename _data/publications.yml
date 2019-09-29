@@ -4,7 +4,7 @@
     - Seonghwa Choi
     - Woojae Kim
     - Sanghoon Lee
-  venue: In the International Conference on Computer Vision (ICCV) (2019) (acceptance rate&#58; 25%).
+  venue: In the International Conference on Computer Vision (ICCV 2019) (acceptance rate&#58; 25%).
   code: "https://github.com/justanhduc/graphx-conv"
 
 - title: POINT CLOUD DEFORMATION FOR SINGLE IMAGE 3D RECONSTRUCTION
@@ -14,7 +14,7 @@
     - Jinwoo Kim
     - Sewoong Ahn
     - Sanghoon Lee
-  venue: In the International Conference on Image Processing (ICIP) (2019).
+  venue: In the International Conference on Image Processing (ICIP 2019).
   pdf: "https://cmsworkshops.com/ICIP2019/Papers/ViewPaper.asp?PaperNum=2731"
 
 - title: DISTRIBUTION PADDING IN CONVOLUTIONAL NEURAL NETWORKS
@@ -26,7 +26,7 @@
     - Jinwoo Kim
     - Sanghoon Lee
   pdf: "https://cmsworkshops.com/ICIP2019/Papers/ViewPaper.asp?PaperNum=2737"
-  venue: In the International Conference on Image Processing (ICIP) (2019).
+  venue: In the International Conference on Image Processing (ICIP 2019) (top 10%).
   code: "https://github.com/justanhduc/distribution-padding"
   
 - title: A Simple Way of Multimodal and Arbitrary Style Transfer
@@ -36,7 +36,7 @@
     - Woojae Kim
     - Sanghoon Lee
   pdf: "https://ieeexplore.ieee.org/abstract/document/8683493"
-  venue: In the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2019).
+  venue: In the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2019).
   code: "https://github.com/justanhduc/multar"
   
 - title: Multiple Level Feature-Based Universal Blind Image Quality Assessment Model
@@ -47,7 +47,7 @@
     - Chong Luo
     - Sanghoon Lee
   pdf: "https://ieeexplore.ieee.org/document/8451346"
-  venue: In the International Conference on Image Processing (ICIP) (2018).
+  venue: In the International Conference on Image Processing (ICIP 2018).
   
 - title: Video Frame Interpolation by Plug-and-Play Deep Locally Linear Embedding
   authors: 

@@ -1,6 +1,11 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: International Conference on Computer Vision (ICCV)
+  role: Student volunteer
+  year: Oct 27, 2019 &mdash; Nov 2, 2019
+  url: http://iccv2019.thecvf.com/
+
 - organization: IEEE P3333.1 Human Factors for Visual Experiences Working Group
   role: Secretary
   year: Oct 2017 &mdash; present
