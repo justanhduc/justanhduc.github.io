@@ -16,8 +16,7 @@ excerpt: |
 
 ## Abstract
 
-<div class="markdown">
-<p>In this paper, we present a novel deep method to reconstruct
+In this paper, we present a novel deep method to reconstruct
 a point cloud of an object from a single still image.
 Prior arts in the field struggle to reconstruct an accurate
 and scalable 3D model due to either the inefficient
@@ -39,8 +38,7 @@ sets. Moreover, with a simple trick, the proposed model can
 generate an arbitrary-sized point cloud, which is the first
 deep method to do so. Extensive experiments verify that we
 outperform existing models and halve the state-of-the-art
-distance score in single image 3D reconstruction. </p>
-</div>
+distance score in single image 3D reconstruction.
 
 ## Method
 
@@ -48,8 +46,9 @@ distance score in single image 3D reconstruction. </p>
 
 ### Image encoding
 
-We use a VGG-like architecture to
-encode the input image (middle branch).
+We use a VGG-like architecture as in 
+[Pixel2mesh](https://github.com/nywang16/Pixel2Mesh) 
+to encode the input image (middle branch).
 
 ### Point-specific feature
 
@@ -70,7 +69,8 @@ to obtain features at multiple scales. We note that the
 number of scales here is equal to that of the image feature
 maps, and the dimensionality of the feature is the same as
 the number of the feature map channels at the same scale.
-Then, we apply AdaIN in style transfer to the point cloud features and
+Then, we apply [AdaIN](https://arxiv.org/abs/1703.06868) 
+in style transfer to the point cloud features and
 image feature maps at the same scale (bottom branch). 
 
 ### Feature extraction
@@ -87,6 +87,8 @@ point cloud representation of the given object.
 
 The deformation network consists of several Graphx layers.
 Also, different block types are made of Graphx.
+For more details, please refer to the paper and the supplementary
+material.
 
 
 ## Results
