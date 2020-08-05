@@ -1,6 +1,14 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: NAVER LABS Europe
+  role: Research Intern
+  year: Feb 2020 &mdash; July 2020
+  url: https://europe.naverlabs.com/
+  summary: I did my internship with 3D Vision team under 
+    <a href='https://europe.naverlabs.com/people_user/romain-br%c3%a9gier/' style='color:hotpink'>Romain Brégier</a>.
+    Together, we setup a one-of-a-kind benchmark for point cloud convolutional operators.
+
 - organization: International Conference on Computer Vision (ICCV)
   role: Student volunteer
   year: Oct 27, 2019 &mdash; Nov 2, 2019
@@ -10,11 +18,14 @@
   role: Secretary
   year: Oct 2017 &mdash; present
   url: http://grouper.ieee.org/groups/3dhf/
-  summary: We develop standard documents for Quality of Experiences of various visual contents. Currently, I am serving as the secretary of the Chair, prof. Sanghoon Lee.
+  summary: We develop standard documents for Quality of Experiences of various visual contents. 
+    Currently, I am serving as the secretary of the Chair, prof. Sanghoon Lee.
 
 - organization: International Research Institute MICA&#58; Multimedia, Information, Communication and Applications
   role: Intern
   year: Jan 2014 &mdash; Aug 2015
   url: http://www.mica.edu.vn
-  summary: Implemented an indoor localization framework based on Wifi SSI and K-Nearest Neighbor. This later became my Undergraduate Thesis.
+  summary: I implemented and integrated an indoor localization method based on Wifi SSI and K-Nearest Neighbor into
+    the existing localization system at MICA. 
+    This later became my Undergraduate Thesis.
 

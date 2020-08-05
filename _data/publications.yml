@@ -1,11 +1,48 @@
+- title: Dynamic Receptive Field Generation for Full-Reference Image Quality Assessment
+  authors: 
+    - Woojae Kim
+    - Anh-Duc Nguyen
+    - Sanghoon Lee
+    - Alan Conrad Bovik
+  venue: IEEE Transactions on Image Processing
+  year: 2020
+  pdf: "https://ieeexplore.ieee.org/document/8970465"
+
+- title: Modern trends on quality of experience assessment and future work
+  authors:
+    - Woojae Kim
+    - Sewoong Ahn
+    - Anh-Duc Nguyen
+    - Jinwoo Kim
+    - Jaekyung Kim
+    - Heeseok Oh
+    - Sanghoon Lee
+  venue: APSIPA Transactions on Signal and Information Processing
+  year: 2019
+  pdf: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9E4001EEBD5CCF36DA13B82B18E17D5D/S2048770319000167a.pdf/modern_trends_on_quality_of_experience_assessment_and_future_work.pdf"
+
+- title: Video Frame Synthesis via Plug-and-Play Deep Locally Temporal Embedding
+  authors: 
+    - Anh-Duc Nguyen
+    - Woojae Kim
+    - Jongyoo Kim
+    - Weisi Lin
+    - Sanghoon Lee
+  venue: IEEE Access
+  year: 2019
+  code: "https://github.com/justanhduc/DeepLTE"
+  pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8931794"
+
 - title: GraphX-Convolution for Point Cloud Deformation in 2D-to-3D Conversion
   authors: 
     - Anh-Duc Nguyen
     - Seonghwa Choi
     - Woojae Kim
     - Sanghoon Lee
-  venue: In the International Conference on Computer Vision (ICCV 2019) (acceptance rate&#58; 25%).
+  venue: International Conference on Computer Vision (acceptance rate&#58; 25%)
+  year: 2019
   code: "https://github.com/justanhduc/graphx-conv"
+  pdf: "https://arxiv.org/abs/1911.06600"
 
 - title: POINT CLOUD DEFORMATION FOR SINGLE IMAGE 3D RECONSTRUCTION
   authors: 
@@ -14,7 +51,8 @@
     - Jinwoo Kim
     - Sewoong Ahn
     - Sanghoon Lee
-  venue: In the International Conference on Image Processing (ICIP 2019).
+  venue: International Conference on Image Processing
+  year: 2019
   pdf: "https://cmsworkshops.com/ICIP2019/Papers/ViewPaper.asp?PaperNum=2731"
 
 - title: DISTRIBUTION PADDING IN CONVOLUTIONAL NEURAL NETWORKS
@@ -26,7 +64,8 @@
     - Jinwoo Kim
     - Sanghoon Lee
   pdf: "https://cmsworkshops.com/ICIP2019/Papers/ViewPaper.asp?PaperNum=2737"
-  venue: In the International Conference on Image Processing (ICIP 2019) (top 10%).
+  venue: International Conference on Image Processing (top 10%)
+  year: 2019
   code: "https://github.com/justanhduc/distribution-padding"
   
 - title: A Simple Way of Multimodal and Arbitrary Style Transfer
@@ -36,7 +75,8 @@
     - Woojae Kim
     - Sanghoon Lee
   pdf: "https://ieeexplore.ieee.org/abstract/document/8683493"
-  venue: In the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2019).
+  venue: IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 2019
   code: "https://github.com/justanhduc/multar"
   
 - title: Multiple Level Feature-Based Universal Blind Image Quality Assessment Model
@@ -47,7 +87,8 @@
     - Chong Luo
     - Sanghoon Lee
   pdf: "https://ieeexplore.ieee.org/document/8451346"
-  venue: In the International Conference on Image Processing (ICIP 2018).
+  venue: International Conference on Image Processing
+  year: 2018
   
 - title: Video Frame Interpolation by Plug-and-Play Deep Locally Linear Embedding
   authors: 
@@ -56,12 +97,14 @@
     - Jongyoo Kim
     - Sanghoon Lee
   pdf: "https://arxiv.org/abs/1807.01462"
-  venue: Preprint.
+  venue: Preprint
+  year: 2018
   code: "https://github.com/justanhduc/DeepLTE"
   
 - title: IEEE 3333.1.2-2017 - IEEE Standard for the Perceptual Quality Assessment of Three-Dimensional (3D) and Ultra-High-Definition (UHD) Contents
   pdf: "https://standards.ieee.org/standard/3333_1_2-2017.html"
-  venue: Approved standard document by the IEEE Standardization Board (2018).
+  venue: Approved standard document by the IEEE Standardization Board
+  year: 2018
 
 - title: Deep Visual Saliency on Stereoscopic Images
   authors: 
@@ -71,7 +114,8 @@
     - Weisi Lin
     - Sanghoon Lee
   pdf: "https://ieeexplore.ieee.org/document/8520871"
-  venue: In the IEEE Transactions on Image Processing (2018) (IF&#58; 6.790).
+  venue: IEEE Transactions on Image Processing (IF&#58; 6.790)
+  year: 2018
   
 - title: Deep CNN-based Blind Image Quality Predictor
   authors: 
@@ -79,4 +123,15 @@
     - Anh-Duc Nguyen
     - Sanghoon Lee
   pdf: "https://ieeexplore.ieee.org/document/8383698"
-  venue: In the IEEE Transactions on Neural Networks and Learning Systems (2018) (IF&#58; 11.683).
+  venue: IEEE Transactions on Neural Networks and Learning Systems (IF&#58; 11.683)
+  year: 2018
+  
+- title: A review of computer vision methods for purpose on computer-aided diagnosis
+  authors: 
+    - Hyewon Song
+    - Anh-Duc Nguyen
+    - Myoungsik Gong
+    - Sanghoon Lee
+  pdf: "http://www.ndsl.kr/soc_img/society/isss/GJKGBP/2016/v3n1/GJKGBP_2016_v3n1_1.pdf"
+  venue: Journal of international society for simulation surgery
+  year: 2016
