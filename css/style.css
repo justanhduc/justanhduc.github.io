@@ -71,6 +71,7 @@ section.hero {
   background-image: url('/images/cover2.jpg');
   background-size: cover;
   background-position: center;
+  padding: 120px 0;
 }
 
 p.post-hero {
@@ -103,10 +104,6 @@ nav.main-nav li a {
 
 div.content {
   background: #fff;
-}
-
-section.hero {
-  padding: 120px 0;
 }
 
 p.sub-text {
@@ -257,6 +254,22 @@ table tr th :last-child, table tr td :last-child {
 }
 
 .heading .container .main-nav .active {
-  background-color: #4CAF50;
-  color: white;
+  background-color: whitesmoke;
+  color: black;
+}
+
+.container .icon {
+  float: right;
+  font-size: 30px;
+  display: none;
+}
+
+@media screen and (max-width: 750px){
+  .heading .container nav {
+    display: none;
+  }
+
+  .container .icon {
+    display: inline;
+  }
 }
