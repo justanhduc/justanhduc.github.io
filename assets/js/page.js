@@ -16,6 +16,13 @@ $(function () {
     });
 });
 
+// hover
+$(function() {
+    $(".heading .container .main-nav a").hover(function() {
+        $(this).css("background-color", "gray");
+    }, function() {$(this).css("background-color", "")});
+});
+
 // responsive menu bar
 $(function () {
     $(".heading .container .icon").click(function () {
