@@ -3,11 +3,22 @@
   description: OOP, Multi Threading, Queuing, Function Decorators, etc...
 
 - skill: Deep Learning Python Library
-  description: Theano, Pytorch, Tensorflow, Matconvnet, Chainer, etc... I am a contributor of Tensorflow/models and Theano.
+  description: 
+    - Theano, Pytorch, Tensorflow, Matconvnet, Chainer, etc... 
+    - I am a contributor of Tensorflow/models and Theano.
+    - I am the author of <a href='https://neuralnet-pytorch.readthedocs.io' style='color:hotpink'>Neuralnet-pytorch</a>.
 
 - skill: C/C++
-  description: OOP, STL, Multi Threading, etc...
+  description: 
+    - OOP, STL, Multi Threading, etc...
+    - I am a maintainer of <a href='https://github.com/justanhduc/task-spooler' style='color:hotpink'>Task Spooler</a> and the author of <a href='https://github.com/justanhduc/messenger' style='color:hotpink'>Messenger</a>.
   
+- skill: CMake
+  description: Intermediate  
+
+- skill: CUDA 
+  description: Pytorch custom Ops, Ray casting, etc... 
+
 - skill: Matlab
   description: For scientific purpose.
   

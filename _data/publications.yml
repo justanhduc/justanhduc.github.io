@@ -1,3 +1,14 @@
+- title: Statistical Convolution On Unordered Point Set 
+  authors:
+    - Anh-Duc Nguyen
+    - Seonghwa Choi
+    - Woojae Kim
+    - Sanghoon Lee
+    - Weisi Lin 
+  venue: International Conference on Image Processing
+  year: 2020
+  pdf: "/assets/papers/09190709.pdf"
+
 - title: Dynamic Receptive Field Generation for Full-Reference Image Quality Assessment
   authors: 
     - Woojae Kim
@@ -6,7 +17,7 @@
     - Alan Conrad Bovik
   venue: IEEE Transactions on Image Processing
   year: 2020
-  pdf: "https://ieeexplore.ieee.org/document/8970465"
+  pdf: "/assets/papers/08970465.pdf"
 
 - title: Modern trends on quality of experience assessment and future work
   authors:
@@ -19,7 +30,7 @@
     - Sanghoon Lee
   venue: APSIPA Transactions on Signal and Information Processing
   year: 2019
-  pdf: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9E4001EEBD5CCF36DA13B82B18E17D5D/S2048770319000167a.pdf/modern_trends_on_quality_of_experience_assessment_and_future_work.pdf"
+  pdf: "/assets/papers/modern_trends_on_quality_of_experience_assessment_and_future_work.pdf"
 
 - title: Video Frame Synthesis via Plug-and-Play Deep Locally Temporal Embedding
   authors: 
@@ -31,7 +42,7 @@
   venue: IEEE Access
   year: 2019
   code: "https://github.com/justanhduc/DeepLTE"
-  pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8931794"
+  pdf: "/assets/papers/08931794.pdf"
 
 - title: GraphX-Convolution for Point Cloud Deformation in 2D-to-3D Conversion
   authors: 
@@ -53,7 +64,7 @@
     - Sanghoon Lee
   venue: International Conference on Image Processing
   year: 2019
-  pdf: "https://cmsworkshops.com/ICIP2019/Papers/ViewPaper.asp?PaperNum=2731"
+  pdf: "/assets/papers/08803350.pdf"
 
 - title: DISTRIBUTION PADDING IN CONVOLUTIONAL NEURAL NETWORKS
   authors: 
@@ -63,7 +74,7 @@
     - Sewoong Ahn
     - Jinwoo Kim
     - Sanghoon Lee
-  pdf: "https://cmsworkshops.com/ICIP2019/Papers/ViewPaper.asp?PaperNum=2737"
+  pdf: "/assets/papers/08803537.pdf"
   venue: International Conference on Image Processing (top 10%)
   year: 2019
   code: "https://github.com/justanhduc/distribution-padding"
@@ -74,7 +85,7 @@
     - Seonghwa Choi
     - Woojae Kim
     - Sanghoon Lee
-  pdf: "https://ieeexplore.ieee.org/abstract/document/8683493"
+  pdf: "/assets/papers/08683493.pdf"
   venue: IEEE International Conference on Acoustics, Speech, and Signal Processing
   year: 2019
   code: "https://github.com/justanhduc/multar"

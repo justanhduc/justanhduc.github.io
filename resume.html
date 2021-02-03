@@ -75,7 +75,7 @@ layout: page
               {% for award in education.awards %}
               <li>{{ award.award }}</li>
               {% endfor %}
-            </ul></h5>
+            </ul>
 
 
           <p class="resume-item-copy">{{ education.summary }}</p>
@@ -149,10 +149,16 @@ layout: page
         <header class="section-header">
           <h2>Skills</h2>
         </header>
+        <p>Below is the list of programming languages that I enjoy and have used in certain non-trivial projects. 
+          Those that I am at hello-world level or feel painful when using will not make it here. </p>
         {% for skill in site.data.skills %}
         <div class="resume-item">
           <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
+          <ul class="resume-item-list">
+            {% for desc in skill.description %}
+            <li>{{ desc }}</li>
+            {% endfor %}
+          </ul>
         </div>
         {% endfor %}
 
@@ -169,22 +175,39 @@ layout: page
         </header>
 
         {% for award in site.data.awards %}
-        <div class="resume-item">
-			{% if award.award %}
-				<h3 class="resume-item-title" itemprop="award">{{ award.award }}</h3>
-			{% endif %}
-			{% if award.organization and award.year %}
-				<h4 class="resume-item-details">{{ award.organization }} &bull; {{ award.year }}</h4>
-			{% endif %}
-			{% if award.summary %}
-				<p class="resume-item-copy">{{ award.summary }}</p>
-			{% endif %}
+          <div class="resume-item">
+			      {% if award.award %}
+				      <h3 class="resume-item-title" itemprop="award">{{ award.award }}</h3>
+			      {% endif %}
+			      {% if award.organization and award.year %}
+				      <h4 class="resume-item-details">{{ award.organization }} &bull; {{ award.year }}</h4>
+			      {% endif %}
+			      {% if award.summary %}
+				      <p class="resume-item-copy">{{ award.summary }}</p>
+			      {% endif %}
         </div>
         {% endfor %}
 
       </section>
       <!-- end Award -->
       {% endif %}
+
+      <!-- activities -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Activities</h2>
+        </header>
+
+        {% for activity in site.data.activities %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{{ activity.activity }}</h3>
+          <h4 class="resume-item-details">{{ activity.description }} &bull; {{ activity.date }}</h4>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end activities -->
 
       {% if site.resume_section_interests %}
       <!-- begin Interests -->
