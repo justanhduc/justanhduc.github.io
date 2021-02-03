@@ -17,7 +17,7 @@ resume_contact_telephone:       "+82-10-3458-9210"
 resume_contact_address:         "C703 Engineering Hall 3, Yonsei University, Seodaemun-gu, Seoul, Korea, 03722."
 resume_header_contact_info: "C703 Engineering Hall 3, Yonsei University, Seodaemun-gu, Seoul, Korea, 03722. | +8210-3458-9210 | adnguyen@yonsei.ac.kr"
 resume_header_intro: "<p>I am a passionate human trying to teach machine to learn. Currently, I am working towards my PhD in Computer Vision at Yonsei University. I am interested in computer vision, machine learning, deep learning, and statistics.</p>
-<p>I am developing a high-level deep learning API on top of Pytorch <a href='https://neuralnet-pytorch.readthedocs.io' style='color:hotpink'>here</a>. This is my personal project during my little free time doing PhD.</p>"
+<p>I am developing a high-level deep learning API on top of Pytorch <a href='https://neuralnet-pytorch.readthedocs.io' style='color:hotpink'>here</a>. I am also maintaining/developing a SLURM-like task manager for a single server <a href='https://github.com/justanhduc/task-spooler' style='color:hotpink'>here</a> and <a href='https://github.com/justanhduc/messenger' style='color:hotpink'>here</a>.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
