@@ -27,6 +27,17 @@ html {
   zoom: 1;
 }
 
+.wrapper-gallery {
+  max-width: 1200px;
+  padding: 0 24px;
+  // margin: 0 auto;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  zoom: 1;
+}
+
 // clearfix (now called group,
 // via http://css-tricks.com/snippets/css/clear-fix/)
 .group:before,

@@ -1,0 +1,40 @@
+- selector: slider2
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/gallery/020922/000038270032.jpg
+      alt: "Praktica BX20 | Praktica Pentacon 50mm f1.8 | Lomo 100"
+    - src: /assets/gallery/020922/000038270001.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Lomo 100"
+    - src: /assets/gallery/020922/000038270002.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Lomo 100"
+    - src: /assets/gallery/020922/000038270003.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Lomo 100"
+    - src: /assets/gallery/020922/000038270006.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Lomo 100"
+    - src: /assets/gallery/180722/000012970002.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Portra 160"
+    - src: /assets/gallery/180722/000012970005.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Portra 160"
+    - src: /assets/gallery/180722/000012970014.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Portra 160"
+    - src: /assets/gallery/180722/000012970016.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Portra 160"
+    - src: /assets/gallery/180722/000012970017.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Portra 160"
+    - src: /assets/gallery/180722/000012970018.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Portra 160"
+    - src: /assets/gallery/180722/000012970020.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Portra 160"
+    - src: /assets/gallery/180722/000012970025.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Portra 160"
+    - src: /assets/gallery/180722/000012970033.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Portra 160"
+    - src: /assets/gallery/180722/000012970035.jpg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Portra 160"
+  settings:
+    # height: "'auto'"
+    maxHeight: 800
+    effect: 
+    interval: 3e3
+    transitionDuration: 500
