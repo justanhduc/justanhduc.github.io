@@ -34,7 +34,7 @@
       alt: "Pentax MX | SMC Pentax 50mm f1.4 | Portra 160"
   settings:
     # height: "'auto'"
-    maxHeight: 800
+    maxHeight: 700
     effect: 
     interval: 3e3
     transitionDuration: 500

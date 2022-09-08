@@ -58,7 +58,7 @@
 	z-index: 15;
 	width: 90%;
 	text-align: right;
-	opacity: 0.4;
+	opacity: 0;
 	-webkit-transition: 0.3s ease-out;
 	   -moz-transition: 0.3s ease-out;
 		 -o-transition: 0.3s ease-out;
@@ -102,6 +102,11 @@
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
+	opacity: 0;
+	-webkit-transition: 0.3s ease-out;
+	-moz-transition: 0.3s ease-out;
+	  -o-transition: 0.3s ease-out;
+		 transition: 0.3s ease-out;
 }
 .iis-has-bullet-nav .iis-caption { max-width: 42%; }
 .iis-caption .iis-caption-title { font-weight: bold; }
@@ -120,3 +125,5 @@
 .iis-caption .iis-caption-content a:active {
 	color: #fff;
 }
+.ideal-image-slider:hover .iis-caption {opacity: .8;}
+.ideal-image-slider:hover .iis-caption:hover {opacity: 1;}
