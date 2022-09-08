@@ -48,8 +48,31 @@
       alt: "Voigtländer Vitoret DR | LANTHAR 50mm f2.8 | Kentmere 400"
     - src: /assets/gallery/070622/000071130032_Original.jpeg
       alt: "Voigtländer Vitoret DR | LANTHAR 50mm f2.8 | Kentmere 400"
+    - src: /assets/gallery/240422/000053910003_Original.jpeg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Superia 400"
+    - src: /assets/gallery/240422/000053910004_Original.jpeg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Superia 400"
+    - src: /assets/gallery/240422/000053910005_Original.jpeg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Superia 400"
+    - src: /assets/gallery/240422/000053910006_Original.jpeg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Superia 400"
+    - src: /assets/gallery/240422/000053910010_Original.jpeg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Superia 400"
+    - src: /assets/gallery/240422/000053910016_Original.jpeg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Superia 400"
+    - src: /assets/gallery/240422/000053910017_Original.jpeg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Superia 400"
+    - src: /assets/gallery/240422/000053910025_Original.jpeg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Superia 400"
+    - src: /assets/gallery/030422/000037670014_Original.jpeg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Kodak Gold 200"
+    - src: /assets/gallery/030422/000037670020_Original.jpeg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Kodak Gold 200"
+    - src: /assets/gallery/030422/000037670022_Original.jpeg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Kodak Gold 200"
+    - src: /assets/gallery/030422/000037670031_Original.jpeg
+      alt: "Pentax MX | SMC Pentax 50mm f1.4 | Kodak Gold 200"
   settings:
-    # height: "'auto'"
     maxHeight: 700
     effect: 
     interval: 3e3
