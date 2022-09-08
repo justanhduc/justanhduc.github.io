@@ -127,3 +127,4 @@
 }
 .ideal-image-slider:hover .iis-caption {opacity: .8;}
 .ideal-image-slider:hover .iis-caption:hover {opacity: 1;}
+.ideal-image-slider:hover .iis-caption:active {opacity: 1;}
