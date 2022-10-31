@@ -20,7 +20,7 @@ resume_header_intro: "<p>I am trying to teach machine to learn.
 Currently, I am working towards my PhD in Computer Vision at Yonsei University. 
 I am interested in computer vision, machine learning, deep learning, and statistics.</p>
 <p>I am the author of <a href='https://github.com/justanhduc/task-spooler' style='color:hotpink'>GPU Task Spooler</a>,
-which is a simple CLI queuing system for CPU/GPU tasks in Linux.</p>"
+a simple CLI queuing system for CPU/GPU tasks in Linux.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
