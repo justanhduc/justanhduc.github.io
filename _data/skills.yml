@@ -1,23 +1,29 @@
 # Skills
 - skill: Python
-  description: OOP, Multi Threading, Queuing, Function Decorators, etc...
+  description: OOP, Multi Threading, Multi Processing, Queuing, Function Decorators, etc...
 
 - skill: Deep Learning Python Library
   description: 
     - Theano, Pytorch, Tensorflow, Matconvnet, Chainer, etc... 
-    - I am a contributor of Tensorflow/models and Theano.
-    - I am the author of <a href='https://neuralnet-pytorch.readthedocs.io' style='color:hotpink'>Neuralnet-pytorch</a>.
+    - I am an (inactive) member of <a href='https://github.com/kornia/kornia' style='color:hotpink'>Kornia org</a>.
+    - I was a contributor of Tensorflow/models and Theano.
 
 - skill: C/C++
   description: 
     - OOP, STL, Multi Threading, etc...
-    - I am a maintainer of <a href='https://github.com/justanhduc/task-spooler' style='color:hotpink'>Task Spooler</a> and the author of <a href='https://github.com/justanhduc/messenger' style='color:hotpink'>Messenger</a>.
+    - I am the author of <a href='https://github.com/justanhduc/task-spooler' style='color:hotpink'>GPU Task Spooler</a> and its plugin, <a href='https://github.com/justanhduc/messenger' style='color:hotpink'>Messenger</a>.
   
-- skill: CMake
-  description: Intermediate  
+- skill: Makefile/CMake
+  description: Build tools for GPU Task Spooler.  
 
 - skill: CUDA 
   description: Pytorch custom Ops, Ray casting, etc... 
+
+- skill: Bash
+  description: For writing Linux batch job scripts.
+
+- skill: Dockerfile
+  description: Making virtual environment for Deep Learning experiments.
 
 - skill: Matlab
   description: For scientific purpose.
@@ -27,3 +33,6 @@
 
 - skill: Database Administration (MySQL/PHP)
   description: Basic understandings to serve my undergraduate thesis.
+
+- skill: Latex/Beamer
+  description: For writing papers and making presentation slides.

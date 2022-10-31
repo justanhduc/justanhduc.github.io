@@ -5,22 +5,22 @@
   role: Research Intern
   year: Feb 2020 &mdash; July 2020
   url: https://europe.naverlabs.com/
-  summary: I did my internship with 3D Vision team under 
-    <a href='https://europe.naverlabs.com/people_user/romain-br%c3%a9gier/' style='color:hotpink'>Romain Brégier</a>.
-    Together, we setup a one-of-a-kind benchmark for point cloud convolutional operators.
+  summary: I worked with 
+    <a href='https://europe.naverlabs.com/people_user/romain-br%c3%a9gier/' style='color:hotpink'>Romain Brégier</a> 
+    in 3D Vision team.
+    Together, we setup a benchmark for state-of-the-art deep learning point cloud convolutional operators.
 
 - organization: IEEE P3333.1 Human Factors for Visual Experiences Working Group
   role: Secretary
   year: Oct 2017 &mdash; present
   url: http://grouper.ieee.org/groups/3dhf/
   summary: We develop standard documents for Quality of Experiences of various visual contents. 
-    Currently, I am serving as the secretary of the Chair, prof. Sanghoon Lee.
+    I served as the secretary of the P3333.1.3 WG.
 
 - organization: International Research Institute MICA&#58; Multimedia, Information, Communication and Applications
   role: Intern
   year: Jan 2014 &mdash; Aug 2015
   url: http://www.mica.edu.vn
   summary: I implemented and integrated an indoor localization method based on Wifi SSI and K-Nearest Neighbor into
-    the existing localization system at MICA. 
-    This later became my Undergraduate Thesis.
+    the existing localization system at MICA, which was a part of my Undergraduate Thesis.
 

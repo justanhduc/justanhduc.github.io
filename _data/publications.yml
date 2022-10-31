@@ -1,3 +1,37 @@
+- title: "Single Image 3D Reconstruction: Rethinking Point Cloud Deformation"
+  authors:
+    - Duc Nguyen
+    - Seonghwa Choi
+    - Woojae Kim
+    - Jongyoo Kim
+    - Heeseok Oh
+    - Jiwoo Kang
+    - Sanghoon Lee
+  venue: IEEE Transactions on Neural Networks and Learning Systems
+  year: 2022
+  pdf: "/assets/papers/TNNLS-2021-P-16805.pdf"
+
+- title: "GradMask: Gradient-Guided Token Masking for Textual Adversarial Example Detection"
+  authors: 
+    - Hancheol Moon
+    - Shafiq Joty
+    - Xu Chi
+  venue: CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (SigKDD 2022) (Acked)
+  year: 2022
+  pdf: "/assets/papers/sigkdd22_gradmask.pdf"
+
+- title: Diverse and Adjustable Versatile Image Enhancer
+  authors:
+    - Woojae Kim
+    - Anh-Duc Nguyen
+    - Jinwoo Kim
+    - Jongyoo Kim
+    - Heeseok Oh
+    - Sanghoon Lee
+  venue: IEEE Access
+  year: 2021
+  pdf: "/assets/papers/09442782.pdf"
+
 - title: Statistical Convolution On Unordered Point Set 
   authors:
     - Anh-Duc Nguyen

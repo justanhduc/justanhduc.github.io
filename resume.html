@@ -69,7 +69,7 @@ layout: page
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
-          <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
+          <!-- <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5> -->
           <p class="resume-item-copy" itemprop="description">
             <ul class="resume-item-list">
               {% for award in education.awards %}
@@ -135,6 +135,7 @@ layout: page
 		  {% endfor %}
 		</h4>
           <p class="resume-item-copy" itemprop="description">{{ publication.venue }} ({{ publication.year }}) </p>
+          {% if publication.note %}<p lass="resume-item-copy" itemprop="description">{{ publication.note }}</p>{% endif %}
         </div>
         {% endfor %}
 
@@ -265,6 +266,7 @@ layout: page
       <!-- end Print Social Links -->
       {% endif %}
 
+      <h5>Last updated: October 2022</h5>
     </div>
 
 </body>
